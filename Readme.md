@@ -21,7 +21,7 @@
 
 - Discoverd a lot of display property that is none other than flex.
 
-- Through flex it is easy to deal wil=th items and lot more about partion of section in to two equal width and Font awesome too.
+- Through flex it is easy to deal with items and lot more about partion of section in to two equal width and Font awesome too.
 
 
 
